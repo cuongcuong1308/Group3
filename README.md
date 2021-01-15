@@ -12,7 +12,7 @@ Project title: TinyTots
 
 3 collaborators:
 
-             Pham Dang Khoa (haruyuki7121994@gmail.com) Student1256054
+             Ly Quoc Cuong (lyquoccuong1807@gmail.com) Student...
 
              Vu Quang Dat (dat.quang09@gmail.com) Student1248885
              
