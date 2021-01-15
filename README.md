@@ -12,11 +12,10 @@ Project title: TinyTots
 
 3 collaborators:
 
-             Ly Quoc Cuong (lyquoccuong1807@gmail.com) Student...
+             Ly Quoc Cuong (lyquoccuong1807@gmail.com) Student1283036
 
-             Vu Quang Dat (dat.quang09@gmail.com) Student1248885
+             Phạm Vũ Thảo Vy (thaovy.phamvu1925@gmail.com) Student1280940
              
-             Nguyen Phuoc Vinh Huy (sickmyduck23.3@gmail.com) Student1254039
 ============================
 
 eProject documentation at https://cuongcuong1308.github.io/Group3/ ... documentation
