@@ -18,7 +18,7 @@ Project title: TinyTots
              
 ============================
 
-eProject documentation at https://cuongcuong1308.github.io/Group3/documentation
+eProject documentation at https://github.com/cuongcuong1308/Group3/tree/main/documentation
 
 ============================
 
